@@ -1,0 +1,1 @@
+Sube invitacion.html al repositorio existente. Cambia el botón de la apertura para que apunte a invitacion.html. No reemplaces index.html. Pendiente: IBAN, enlace Google Forms, validar código hotelero y sustituir dibujos esquemáticos de hoteles por acuarelas fieles. Las tres acuarelas facilitadas están integradas en el HTML. Tipografías Google Fonts requieren conexión.
